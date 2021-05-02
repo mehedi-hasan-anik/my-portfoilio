@@ -1,0 +1,27 @@
+.project-full-area{
+    
+}
+
+
+.card-area{
+    height: 510px;
+    box-shadow: 10px 10px 30px rgb(101, 101, 165);
+    background: rgb(29, 27, 27);
+    color: white;
+}
+.card-area ul{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+.card-area ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 10px;
+    padding: 5px 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+.card-area a{
+    text-decoration: none;
+}

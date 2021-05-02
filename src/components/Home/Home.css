@@ -1,0 +1,55 @@
+.home-full-area{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../Image/HvIEnr.png);
+}
+
+.home-top-area{
+    
+    
+}
+.text-area{
+    
+}
+.download-area h1{
+   font-weight: 700;
+   background-color: red;
+  background-image: linear-gradient(20deg, blue, red);
+  background-size: 100%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+.download-area h5{
+  text-align: left;
+  color: gray;
+}
+
+.download-area a{
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.download-area h5{
+    color: grey;
+    margin: 30px 0px;
+}
+/* .home-bottom-area {
+    margin-bottom: 100px;
+}
+.home-bottom-area ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.home-bottom-area ul li{
+    display: inline-block;
+    font-size: 30px;
+    margin-right: 15px;
+} */
+
+

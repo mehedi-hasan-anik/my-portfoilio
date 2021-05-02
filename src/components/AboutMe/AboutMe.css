@@ -1,0 +1,18 @@
+.full-about-area{
+    background: rgb(0, 0, 0);
+    color: yellow;
+}
+.about-details-area h2{
+   color: rgb(101, 101, 196);
+   margin: 20px 0px;
+   font-size: 40px;
+   font-weight: 700;
+}
+.about-details-area h6{
+    color: #8796c0;
+    font-size: 20px;
+}
+.about-details-area p{
+    color: honeydew;
+    font-size: 20px;
+}

@@ -1,0 +1,42 @@
+.full-resume-area{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../Image/HvIEnr.png);
+}
+.cart-area h2{
+    padding: 20px;
+    color: blue;
+}
+
+.download-area{
+    text-align: center;
+    padding: 50px 0px;
+}
+.download-area a{
+    text-decoration: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: 1px solid rebeccapurple;
+    color: #fff;
+}
+.cart-area{
+    box-shadow: 10px 10px 30px gray;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+
+    box-shadow: 10px 10px 30px rgb(101, 101, 165);
+    background: rgb(29, 27, 27);
+    color: white;
+}
+.cart-area h2{
+    text-align: center;
+    margin: 10px 0px;
+}
+.cart-area h4{
+    padding: 10px;
+}
+.cart-area h6{
+    padding:0px 10px;
+}

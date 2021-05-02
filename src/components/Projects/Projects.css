@@ -1,0 +1,11 @@
+.projects-full-area{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../Image/HvIEnr.png);
+}
+.inner-projects h1{
+    text-align: center;
+    color: white;
+    padding: 30px 0px;
+}

@@ -1,0 +1,31 @@
+.full-nav-area{
+    background: #212529;
+}
+
+.nav-full-area{
+   
+}
+.nav-full-area a{
+   color: #000;
+}
+.navigation-area{
+    
+}
+.navigation-area ul{
+    
+}
+.navigation-area ul li{
+    
+}
+
+.navigation-area ul li .nav-link{
+    font-size: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 5px 20px;
+    color: #fff;
+}
+.navigation-area ul li .nav-link:hover{
+    color: white;
+    background: rgb(95, 95, 221);
+}
