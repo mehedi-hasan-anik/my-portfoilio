@@ -6,7 +6,16 @@
     height: 600px;
 }
 
-
+.inner-contact-area h2{
+    color: white;
+    text-align: center;
+    padding: 60px 30px 0px 0px;
+    font-weight: 700;
+    font-size: 40px;
+    background: -webkit-linear-gradient(-50deg,blue, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 .form-area{
    padding: 30px;
    padding-top: 50px;

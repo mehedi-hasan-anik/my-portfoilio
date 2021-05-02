@@ -18,8 +18,8 @@ const AboutMe = () => {
                         <h6>Full Name : Md.Anik Miah</h6>
                         <h6>Age : 24</h6>
                         <h6>Nationality: Bangladeshi</h6>
-                        <h6>Language : Bangla,English</h6>
-                        <h6>Address: Dhaka,Bangladesh</h6>
+                        <h6>Language : Bangla, English</h6>
+                        <h6>Address: Dhaka, Bangladesh</h6>
                         <h6>Freelance: Available</h6>
                     </div>
                 </div>

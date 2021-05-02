@@ -14,15 +14,13 @@ const Home = () => {
                         <div className="row">
                             <div className="col-md-6  d-flex  align-items-center text-area">
                                 <div className="justify-content-center download-area">
-                                        <h1>
-                                            
+                                  <h1>     
                                         <Typical
                                             steps={['HELLO',1000,'&',1000, 'WELLCOME', 1000]}
                                             loop={Infinity}
                                             wrapper="p"
                                         />
-
-                                        </h1>
+                                  </h1>
                                         <h5>I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.</h5>
                                         <a href={Cv} download style={{background:'blue',color:'white'}}>Get Resume</a>
                                 </div>

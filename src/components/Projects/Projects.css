@@ -8,4 +8,8 @@
     text-align: center;
     color: white;
     padding: 30px 0px;
+    font-weight: 700;
+    background: -webkit-linear-gradient(-10deg,blue, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
