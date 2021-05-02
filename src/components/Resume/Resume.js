@@ -7,7 +7,7 @@ const Resume = () => {
      <div className="full-resume-area">   
         <div class="container">
              <div className="download-area">
-                <a href={CV} download>Download CV</a>
+                <a href={CV} download>GET RESUME</a>
              </div>
            <div className="row">
                <div className="col-md-12">

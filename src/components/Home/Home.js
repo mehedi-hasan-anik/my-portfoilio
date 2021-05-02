@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import Photo from '../Image/Untitled-4.png';
+import Photo from '../Image/Untitled-4_50.png';
 import Cv from '../Image/my-cv-final.pdf'
 import Typical from 'react-typical';
 
