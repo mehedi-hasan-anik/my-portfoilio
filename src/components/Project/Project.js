@@ -10,10 +10,10 @@ const Project = ({event}) => {
                     <h2 className="mt-3">{event.name}</h2>
                     <p>{event.details}</p>
                     <ul>
-                        <li><a href={event.live}>Live</a></li>
-                        <li><a href={event.client}>client</a></li>
+                        <li><a href={event.live} target="_blank">Live</a></li>
+                        <li><a href={event.client} target="_blank">client</a></li>
                         {
-                            event.server && <li><a href={event.server}>server</a></li>
+                            event.server && <li><a href={event.server} target="_blank">server</a></li>
                         }
                     </ul> 
                 </div>

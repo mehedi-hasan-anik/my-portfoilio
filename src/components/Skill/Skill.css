@@ -8,7 +8,7 @@
 .wrap{
    max-width: 60%;
    margin: 0 auto;
-   padding: 150px 0px;
+   padding: 100px 0px;
 }
 .bar{
    letter-spacing: 1px;
@@ -60,6 +60,12 @@
  .bar:nth-child(4) span:before{
     width: 50%;
  }
+ .bar:nth-child(5) span:before{
+    width: 70%;
+ }
+ .bar:nth-child(6) span:before{
+    width: 80%;
+ }
 
  abbr{
      font-size: 15px;
@@ -94,4 +100,10 @@
 }
 .bar:nth-child(4) abbr{
     left: 50%;
+}
+.bar:nth-child(5) abbr{
+    left: 70%;
+}
+.bar:nth-child(6) abbr{
+    left: 80%;
 }

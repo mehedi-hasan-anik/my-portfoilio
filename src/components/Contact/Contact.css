@@ -39,3 +39,10 @@
     width: 100%;
     border-radius: 20px;
 }
+.phone-email-area{
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    color: white; 
+}

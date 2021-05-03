@@ -4,6 +4,7 @@ import Project1 from '../Image/Screenshot (46).png';
 import Project2 from '../Image/Screenshot (47).png';
 import Project3 from '../Image/Screenshot (48).png';
 import Project4 from '../Image/Screenshot (49).png';
+import Project5 from '../Image/Screenshot (50).png';
 import './Projects.css';
 import Typical from 'react-typical';
 
@@ -40,6 +41,14 @@ const Projects = () => {
             server:'',
             details:'you can get all details of english premier league teams. And this is a single page application.',
             name:'PremierLeague'
+        },
+        {
+            photo:Project5,
+            live:'https://mehedi-hasan-anik.github.io/fancy-slider-main/',
+            client:'https://github.com/mehedi-hasan-anik/fancy-slider-main',
+            server:'',
+            details:'This is a very beautiful website. You can search anything on this website. And you will see many pictures as per search. If you want, you can make slider by selecting some pictures',
+            name:'Photo Gallery'
         }
     ]
     return (

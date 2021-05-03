@@ -27,6 +27,16 @@ const Contact = () => {
                  </form> 
                </div>
            </div>
+           <div className="phone-email">
+               <div className="row phone-email-area">
+                   <div className="col-md-12">
+                       <h4>Phone : +8801959109322</h4>
+                   </div>
+                   <div className="col-md-12">
+                       <h4>Email : anikm2283@gmail.com</h4>
+                   </div>
+               </div>
+           </div>
            <Footer></Footer>
        </div>
        </div>  

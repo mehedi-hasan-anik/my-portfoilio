@@ -22,6 +22,14 @@ const Skill = () => {
                     <h3>PHOTOSHOP <abbr>50%</abbr></h3>
                     <span></span>
                 </div>
+                <div className="bar">
+                    <h3>REACT <abbr>70%</abbr></h3>
+                    <span></span>
+                </div>
+                <div className="bar">
+                    <h3>NODEJS <abbr>80%</abbr></h3>
+                    <span></span>
+                </div>
             </div>
         </div>
      </div>  
