@@ -5,13 +5,13 @@
 
 .card-area{
     height: 510px;
-    box-shadow: 10px 10px 30px rgb(101, 101, 165);
+    box-shadow: 5px 5px 30px rgb(101, 101, 165);
     background: rgb(29, 27, 27);
     color: white;
     border-radius: 20px;
 }
 .card-area h2{
-    background: -webkit-linear-gradient(-100deg,blue, red);
+    background-image: linear-gradient(-30deg, blue, red);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }

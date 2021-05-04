@@ -14,7 +14,7 @@ const Resume = () => {
                    <div className="cart-area card">
                            <h2>Programming Knowledge</h2>
                                 <ul>
-                                    <li>Expertise: React Bootstrap, JavaScript, REST API, ES6, React.js, Bootstrap4, HTML5, CSS3, WordPress</li>
+                                    <li>Expertise: React, Bootstrap, JavaScript, REST API, ES6, React.js, Bootstrap4, HTML5, CSS3, WordPress</li>
                                     <li>Comfortable : Material UI,Node.js, Express.js, MongoDB, JSON, SASS</li>
                                     <li>Familiar : Redux.js, GraphQL, TypeScript, Laravel, jQuery, AJAX</li>
                                     <li>Tools : Git, Webpack, Create React App, NPM, VS Code, Chrome Dev tool, FirebaseNetlify, Heroku</li>
