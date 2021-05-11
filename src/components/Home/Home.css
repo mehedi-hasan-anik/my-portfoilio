@@ -2,7 +2,7 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background: linear-gradient(#101010, #101010), url(../Image/HvIEnr.png);
+    background: linear-gradient(#10121B, #10121B), url(../Image/HvIEnr.png);
 }
 
 .home-top-area{
@@ -34,6 +34,9 @@
     padding: 5px 10px;
     border-radius: 5px;
     font-size: 20px;
+}
+.download-area a:hover{
+    color: red;
 }
 
 .download-area h5{

@@ -27,7 +27,7 @@ const Home = () => {
                                         />
                                   </h1>
                                         <h5 style={{color:'white'}}>I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.</h5>
-                                        <a href={Cv} download style={{background:'#007ACC',color:'white'}}>Get Resume</a>
+                                        <a href={Cv}  download style={{color:'white'}}>Get Resume</a>
                                 </div>
                             </div>
                                 <div className="col-md-6" style={{textAlign:'right'}}>
