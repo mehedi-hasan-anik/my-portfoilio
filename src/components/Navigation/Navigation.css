@@ -5,8 +5,16 @@
 .nav-full-area{
    
 }
+.nav-full-area button{
+   background: #212529;
+   border: 1px solid white;
+}
+.nav-bar-icon{
+  color: white;
+ 
+}
 .nav-full-area a{
-   
+   color: white;
 }
 .navigation-area{
     
@@ -19,13 +27,14 @@
 }
 
 .navigation-area ul li .nav-link{
-    font-size: 20px;
-    border: 1px solid gray;
-    border-radius: 10px;
+    font-size: 16px;
     padding: 5px 20px;
     color: #fff;
+    border: 1px solid transparent;
+    border-radius: 10px;
 }
 .navigation-area ul li .nav-link:hover{
     color: white;
-    background: rgb(95, 95, 221);
+    border: 1px solid white;
+    border-radius: 10px;
 }
